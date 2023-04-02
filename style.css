@@ -60,7 +60,7 @@ main {
     border-radius: 0px 0px 10px 10px;
     font-family: var(--fonte2);
     min-width: 300px;
-    max-width: 800px;
+    max-width: 1000px;
     padding: 15px;
     margin: auto;
     background-color: white;
@@ -172,4 +172,9 @@ footer a:hover {
 }
 img {
     width: 100%;
+}
+.pequena {
+    max-width: 350px;
+    display: block;
+    margin: auto;
 }
